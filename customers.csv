@@ -1,0 +1,54 @@
+﻿ID cliente;Nome Cliente;Idade;Gênero;Telefone;Cidade;Estado
+1;Daniel;65;M;24525130;Guarulhos;São Paulo
+2;Danilo;47;M;24525131;Mauá;São Paulo
+3;Marta;26;F;24525132;Guarulhos;São Paulo
+4;Carla;29;F;24525133;Santo André;São Paulo
+5;Maurício;32;M;24525134;São Bermardo;São Paulo
+6;Pedro;31;M;24525135;Itaquera;São Paulo
+7;Paula;50;F;24525136;Guarulhos;São Paulo
+8;Paulo;25;M;24525137;Arujá;São Paulo
+9;Jheniffer;60;F;24525138;Diadema;São Paulo
+10;Marcela;30;F;24525139;Santa Izabel;São Paulo
+11;Marcos;48;M;24525140;Santo André;São Paulo
+12;Fernando;34;M;24525141;São Bermardo;São Paulo
+13;Ana Clara;60;F;24525142;Itaquera;São Paulo
+14;David;50;M;24525143;Guarulhos;São Paulo
+15;Allan;77;M;24525144;Arujá;São Paulo
+16;Karol;40;F;24525145;Diadema;São Paulo
+17;Caroline;24;F;24525146;Santa IZabel;São Paulo
+18;Heloísa;81;F;24525147;Santo André;São Paulo
+19;Morgana;33;F;24525148;São Bermardo;São Paulo
+20;Mylena;50;F;24525149;Itaquera;São Paulo
+21;Thiago;42;M;24525150;Guarulhos;São Paulo
+22;Igor;21;M;24525151;Arujá;São Paulo
+23;Nico;81;M;24525152;Diadema;São Paulo
+24;Guilherme;42;M;24525153;Santa Izabel;São Paulo
+25;Mayra;75;F;24525154;Santo André;São Paulo
+26;Ana  ;53;F;24525155;Curitiba;Paraná
+27;Beatriz;62;F;24525156;Maringá;Paraná
+28;Lucas;38;M;24525157;Londrina;Paraná
+29;Fernanda;67;F;24525158;Cascavel;Paraná
+30;Solange;42;F;24525159;Ponta Grossa;Paraná
+31;Soraya;88;F;24525160;São José dos Pinhais;Paraná
+32;Agnaldo;64;M;24525161;Foz do Iguaçú;Paraná
+33;Alex;36;M;24525162;Pinhais;Paraná
+34;Alexandre;69;M;24525163;Colombo;Paraná
+35;Karen;58;F;24525164;Curitiba;Paraná
+36;Bruna;63;F;24525165;Maringá;Paraná
+37;Nathalia;32;F;24525166;Londrina;Paraná
+38;Nathaly;34;F;24525167;Cascavel;Paraná
+39;Enzo;21;M;24525168;Ponta Grossa;Paraná
+40;Alberto;90;M;24525169;São José dos Pinhais;Paraná
+41;Gabriel;46;M;24525170;Foz do Iguaçú;Paraná
+42;Gabriela;82;F;24525171;Pinhais;Paraná
+43;Iris;35;F;24525172;Colombo;Paraná
+44;Minela;74;F;24525173;Curitiba;Paraná
+45;Maria;25;F;24525174;Maringá;Paraná
+46;Aparecida;33;F;24525175;Londrina;Paraná
+47;Marília;45;F;24525176;Cascavel;Paraná
+48;Mayara;38;F;24525177;Ponta Grossa;Paraná
+49;Maraísa;62;F;24525178;São José dos Pinhais;Paraná
+50;Camila;22;F;24525179;Foz do Iguaçú;Paraná
+51;Ricardo;42;M;24525180;Pinhais;Paraná
+52;Romulo;90;M;24525181;Pinhais;Paraná
+53;Rodrigo;42;M;24525182;Foz do Iguaçú;Paraná
